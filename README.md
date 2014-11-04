@@ -2,6 +2,15 @@ Sandesh
 =======
 The Sandesh restful API allows you to integrate complex services and go beyond the integrations we provide out of the box.
 
+Quick start
+===========
+	Four quick start options are available:
+	├──Download the latest release.
+	├──Clone the repo: git clone https://github.com/javabrown/Sandesh.git.
+	├──Install with Bower: bower install Sandesh.
+	├──Install with npm: npm install Sandesh.
+
+
 What's included
 ===============
 	sandesh/
